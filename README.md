@@ -2,10 +2,13 @@
 
 ## Learning Objectives
 
+## some changes in the readme file
+
 ### HTML Concepts:
 1. **Semantic HTML**: Use `<header>`, `<section>`, and `<footer>` tags
 2. **Images**: Add profile image using `<img>` with proper alt attribute
 3. **Links**: Create social media links using `<a>` tags
+
 
 ### CSS Concepts:
 1. **Box Model**: Apply margin, padding, and border
