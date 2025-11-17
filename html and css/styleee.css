@@ -1,0 +1,43 @@
+
+body{
+    background:linear-gradient(to bottom right,rgb(183, 114, 239),rgb(246, 115, 224));
+    justify-content: center;
+    display: flex;
+    margin-top: 10%;
+    height: 100vh;
+}
+.container{
+    background-color: rgb(149, 224, 242);
+    width: 25%;
+    height: 50%;
+    justify-items: center;
+    border-radius: 20px;
+}
+
+.pro{
+    border-radius: 50%;
+    border-color: black;
+    justify-items: center;
+    size: 10px;
+    padding-top: 10%;
+    
+}
+
+section{
+    text-align: center;
+}
+
+p{
+    font-style: italic;
+}
+
+footer{
+    justify-items: center;
+    margin-top: 10px;
+}
+button{
+    padding: 5px;
+    margin-left: 40px;
+    border-radius: 5px;
+}
+
