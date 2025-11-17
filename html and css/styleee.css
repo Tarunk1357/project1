@@ -1,6 +1,6 @@
 
 body{
-    background:linear-gradient(to bottom right,rgb(183, 114, 239),rgb(246, 115, 224));
+    background:linear-gradient(to bottom right,rgb(136, 17, 233),rgb(246, 115, 224));
     justify-content: center;
     display: flex;
     margin-top: 10%;
@@ -39,6 +39,6 @@ button{
     padding: 5px;
     margin-left: 40px;
     border-radius: 5px;
-    transition:all;
+
 }
 
